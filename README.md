@@ -1,16 +1,13 @@
-# pro
+# 🚀 GovQueryAI - Flutter Frontend  
 
-A new Flutter project.
+GovQueryAI is an AI-powered chatbot application designed to assist users with government-related queries. This repository contains the **Flutter frontend**, which includes:  
+- 🌟 **Landing Page** - Welcomes users and provides an overview.  
+- 💬 **Chat Page** - Users can interact with the AI chatbot for their queries.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏗️ Features  
+✅ **Modern UI**: Built with Flutter for a smooth and responsive user experience.  
+✅ **Chatbot Interface**: Communicates with the backend RAG model.  
+✅ **Theming & UI Customization**: Dark mode support and customizable styles.  
+✅ **API Integration**: Connects to the GovQueryAI backend.  
